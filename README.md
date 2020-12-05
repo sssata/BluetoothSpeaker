@@ -3,7 +3,7 @@ A diy omnidirectional bluetooth speaker.
 
 # Features
 - Fully 3D Printed
-- Tuned passive radiator design for bass extension, response down to 40 Hz
+- Tuned passive radiator design for bass response down to 40 Hz
 - Omnidirectional radiaton pattern for consistent sound in different rooms/environments
 - Battery Powered with Battery Level indiator
 - Charging via USB-C PD
