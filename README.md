@@ -6,6 +6,4 @@ A diy omnidirectional bluetooth speaker.
 
 ![img1](images/final/Assembly3.gif)
 
-![img3](images/final/img1.jpg)
-
 ![img4](images/final/side_cutaway.png)
