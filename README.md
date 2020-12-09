@@ -1,6 +1,8 @@
 # BluetoothSpeaker
 A diy omnidirectional bluetooth speaker.
 
+Completed 2020.
+
 # Features
 - 2-Way speaker with passive radiator design for bass response down to 40 Hz
 - Woofer: Tang Band W5-1138SMF 5" Paper Cone Subwoofer
